@@ -1,0 +1,6 @@
+pandas
+requests
+duckdb
+python-dotenv
+world_bank_data
+pytest

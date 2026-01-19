@@ -1,0 +1,17 @@
+# Ignore virtual environment
+venv/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# OS files
+.DS_Store
+
+# Data files (optional, large)
+data/worldbank.duckdb
+data/raw/
+data/processed/
+
+# Jupyter checkpoints
+notebooks/.ipynb_checkpoints/
