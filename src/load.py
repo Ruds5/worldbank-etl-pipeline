@@ -1,4 +1,8 @@
 # src/load.py
+"""
+DuckDB loader: initializes database and loads World Bank indicators
+"""
+
 import duckdb
 import pandas as pd
 
